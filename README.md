@@ -1,4 +1,4 @@
-# Bootcamp Potência Tech Angular Developer - Powered by iFood
+# Bootcamp Desenvolvimento Frontend com Angular da DIO
 ## Repositorio para as atividades do Bootcamp
 
 
